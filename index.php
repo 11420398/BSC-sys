@@ -16,28 +16,28 @@ which means you can use it in any way you want provided you keep the link to the
     <div id="header">
     <div id="menu">
        <div id="menu_list"> 
-        <a href="index.php">ዋና ድህረ ገፅ</a>
+        <a href="index.php"></a>
         <img src="images/splitter.gif" class="splitter" alt="" />
-        <a href="about.php">ስለ ሲስተም</a>
+        <a href="about.php"></a>
         <img src="images/splitter.gif" class="splitter" alt="" />
-        <a href="service.php">አገልግሎት</a>
-        <img src="images/splitter.gif" class="splitter" alt="" />
-       
-        
-        <a href="contact.php">አድራሻ</a>
+        <a href="service.php"></a>
         <img src="images/splitter.gif" class="splitter" alt="" />
        
         
+        <a href="contact.php"></a>
+        <img src="images/splitter.gif" class="splitter" alt="" />
+       
+        
         
        
         
-        <a href="worker_result_show.php">የቢኤስሲ አፈፃፀም ምዘና ውጤት</a>
+        <a href="worker_result_show.php"></a>
         </div>
     </div>
 </div>
       <div id="logo">
       <div id="logo_text">
-      <a href="#"><font color="#FFFFFF">የጂኦስፓሻል መረጃ እና ደህንነት ዳይሬክቶሬት የቢኤስሲ አውቶሜሽን ሲስተም</font></a>
+      <a href="#"><font color="#FFFFFF"></font></a>
       <br/>
       
 <br/>
@@ -74,16 +74,12 @@ which means you can use it in any way you want provided you keep the link to the
   <tr>
     <td width="727"><h1><strong></strong><strong>Welcome</strong></h1>
                 <p><strong>
-	ኢመደኤ ተቋማዊ እቅድን ለመንደፍ፤ ራእይና ስትራተጂን ከፈፃሚ አባላት የእለት ተእለት ተግባር ጋር ላመስተሳሰር አፈፃምን በተጨባጭ መረጃ ላይ በመመስረት< ለመለካትና ለማሻሻል የሚያስችል የስራ አፈፃፀም ምዘና ስርአት በመዘርጋት ቀጣይነት ያለው ተቋማዊ መማማር እውን የሚሆንበትን አግባብ ለመፍጠር የተለያዩ የስራ አፈፃፀም ምዘና አነዱ የሆነውን የባላንስድ ስኮር ካርድ አፈፃፀም ምዘና ስርአት ተመራጭ ሆኖ ተግባራዊ መሆኑን ይታወቃል፡፡
-
-ከዚህም በመነሳት የምዘና ስርአቱ የስራ ክፍሎች ወይም ቡድኖች እንዲሁም ፕሮጀክቶች ወይም ደግሞ አባላት ለተቋሙ ማበርከት የሚገባቸውን የስራ ውጤት በሚፈለገው ደረጃና በተሟላ ሁኔታ ማከናወናቸውን ለማረጋገጥ የሚያስችል በመሆኑ የኢንፎርሜሽን መረብ ደህንነት ኢጀንሲ ይህ የባላንስድ ስኮር ካርድ የስራ አፈፃፀም ውጤት ምዘና ሲስተም አዘጋጅቷል፡፡</strong></p>
+	፡፡</strong></p>
                 <ul>
               
-                    <p align="left"><strong>ስለሆነም  ይህ ሲስተም ከዚህ በታች ባሉት አላማዎች መሰረት በማድረግ ሲስተሙ ተፈፃሚነት  እንዲኖረው ያስቀምጣል፡፡</p>
+                    <p align="left"><strong>
                     <ul>
-                      <li>የባላንስድ ስኮርድ ካርድን  ሁለንተናዊ ጠቀመታ እና ወደ ተቋሙ በማላመድና ተቋማዊ ተጣጣሚነትን በመፍጠር በሚዛናዊ እድገት አቅጣጫ ተቋማዊ ስኬትን ለማሳደግ፤</li>
-                      <li>የኤጀንሲው ክፍሎችና አባላት  ተቋማዊ ተልእኮን ከማሳካት አንፃር የሚሰጣቸውን የግልና የጋራ ተግባርና ሃላፊነት በመፈፀም የደረሱበትን ደረጃና ያስመዘገቡት ውጤት  ለመመዘን፤</li>
-                      <li>የአባላትን ጥንካሬና እጥረቶች  በመለየት የተሻሉትን ለማበረታታት ክፍተት የታየባቸውን ለማገዝ የሚያስችል ከአድልዎ የፀዳና ግልፅ የአስራር ስርአት ማስፈን እንዲቻል  የተቀረፀ ሲስተም ነው፡፡</li>
+                      <li>>
                     </ul>
         </ul></td>
     <td width="273"><img src="images/INSA.jpg" height="500" width="300"/></td>
